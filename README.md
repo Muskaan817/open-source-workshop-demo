@@ -13,3 +13,5 @@ This repo is created to help students make their **first contribution** to open 
 7. Open a Pull Request (PR) 🎉
 
 Once your PR is merged, congratulations! You are officially an **open source contributor**! 🙌
+
+Author - Muskaan
